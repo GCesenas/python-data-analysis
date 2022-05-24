@@ -23,7 +23,7 @@ _The tools needed to build this project are as follows:_
 
 -   [Python](https://www.python.org/) \- Programming language used
 -   [Pandas](https://pandas.pydata.org/) \- Data analysis library
--   [Pandas](https://matplotlib.org/) \- Library for creating static, animated, and interactive visualizations in Python
+-   [Matplotlib](https://matplotlib.org/) \- Library for creating static, animated, and interactive visualizations in Python
 
 ## Author ✒️
 
