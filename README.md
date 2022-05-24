@@ -21,7 +21,7 @@ To test each of the points together or one by one, just use the **python** comma
 
 _The tools needed to build this project are as follows:_
 
--   [Python](https://www.python.org/) \- Programming language used
+-   [Python](https://www.python.org/) \- Used programming language
 -   [Pandas](https://pandas.pydata.org/) \- Data analysis library
 -   [Matplotlib](https://matplotlib.org/) \- Library for creating static, animated, and interactive visualizations in Python
 
